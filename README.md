@@ -1,6 +1,6 @@
 ### ✨✨✨2024/2/28
 
-The dataset used in the paper "***Real-Time Detection of Personal Protective Equipment Violations for Construction Workers Using Semisupervised Learning and Video Clips***", named CPPED (Construction Personal Protective Equipment Dataset), comprises a total of 2,612 images across 13 categories.
+The dataset used in the paper "***[Real-Time Detection of Personal Protective Equipment Violations for Construction Workers Using Semisupervised Learning and Video Clips](https://ascelibrary.org/doi/10.1061/JCEMD4.COENG-15310)***", named CPPED (Construction Personal Protective Equipment Dataset), comprises a total of 2,612 images across 13 categories.
 
 
 
