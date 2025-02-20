@@ -4,6 +4,10 @@ The dataset used in the paper "***Real-Time Detection of Personal Protective Equ
 
 
 
+The CPPED data set created by this study can be downloaded at https://drive.google.com/drive/folders/1pd2_kzUA82M25s8HVL6rHCUUWCaTdVnv?usp=sharing .To obtain access to the CPPED dataset, you must submit a justified request detailing the intended use of the data. Please ensure that your request adheres to the guidelines and requirements specified in the dataset's license agreement. 
+
+
+
 **Note:**
 
 - The dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
